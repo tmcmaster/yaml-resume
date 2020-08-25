@@ -1,2 +1,2 @@
 # yaml-resume
-Resume built from a yaml file
+A web component built with LitElement, that builds resume files from a yaml data.
